@@ -1,0 +1,173 @@
+*
+{
+	padding:0;
+	margin: 0;
+}
+html{
+    max-height:230%;/* make sure it is at least as tall as the viewport */
+    position:relative;
+}
+ul
+{
+	height: 10px;
+	color: white;
+	font-size: 30px;
+}
+
+#ss
+{
+	float: right;
+	padding-right: 50px;
+	padding-top: 30px;
+}
+#pppp
+{
+	text-align: center;
+	width: 1000px;
+	margin: 0 auto;
+}
+li
+{
+	padding-top: 30px;
+	float: left;
+	padding-left: 50px;
+	display: inline-block;
+}
+h1
+{
+	margin: 0 auto;
+	text-align: center;
+	color: #218c74;
+	padding-top: 30px;
+	padding-left: 100px;
+	font-size: 50px;
+	font-family: 'Bangers', cursive;
+}
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+
+
+a
+{
+	color: white;
+	text-decoration-line: none;
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+#ph
+{
+	height: 0px;
+	bottom: 550px;
+	width: 50%;
+	float: right;
+	position: relative;
+}
+
+body
+{
+	
+	background-image: url('c-ma-rdu4jslQo-s-unsplash.jpg');
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;	
+}
+
+img
+{
+	height: 125px;
+	opacity: 80%;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	padding-right: 30px;
+	width: 240px;
+	float: right;
+}
+
+html
+{
+    height: 2000px;
+    width: 100%;
+}
+
+.container {
+	width: 50%;
+	height: 520px;
+  	border-radius: 5px;
+  	background-color: #f2f2f2;
+  	opacity: 80%;
+  	padding: 20px;
+}
+
+#con
+{
+	background-color: #192a56;
+	height: 100px;
+	font-family: 'Oleo Script', cursive;
+}
+
+#about1
+{
+	font-family: 'Bangers', cursive;
+	opacity: 80%;
+	margin-top:  50px;
+	text-align: center;
+	font-size: 40px;
+	color:  #218c74;
+	background-color:  #192a56;
+}
+
+p
+{
+
+	color: white;
+	font-size: 40px;
+	width: 100%;
+}
+
+
+#back
+{
+	margin: 0 auto;
+	padding-bottom: 50px;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Oleo Script', cursive;
+	padding-right: 60px;
+}
+
+#leave
+{
+	color: black;
+	padding-right: 60px;
+	margin: 0 auto;
+	font-family: 'Oleo Script', cursive;
+	padding-top: 30px;
+	text-align: center;
+	font-size: 60px;
+}
+
